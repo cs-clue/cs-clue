@@ -1,3 +1,4 @@
+<img width="1000" height="500" alt="4933201061" src="https://github.com/user-attachments/assets/d3ffa143-55cb-4c65-a1a8-044d35e13c9a" />
 
 # backend Python developer
 
